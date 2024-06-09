@@ -13,7 +13,14 @@
   },
   {
     "cicd_pass": false,
-    "cname": ["elb.amazonaws.com"],
+    "cname": [
+      "elb.amazonaws.com",
+      "elb.us-west-1.amazonaws.com",
+      "elb.us-west-2.amazonaws.com",
+      "elb.us-east-1.amazonaws.com",
+      "elb.us-east-2.amazonaws.com",
+      "elb.eu-west-1.amazonaws.com"
+    ],
     "discussion": "[Issue #137](https://github.com/EdOverflow/can-i-take-over-xyz/issues/137)",
     "documentation": "",
     "fingerprint": "NXDOMAIN",
