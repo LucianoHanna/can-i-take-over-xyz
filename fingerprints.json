@@ -80,7 +80,7 @@
   },
   {
     "cicd_pass": false,
-    "cname": ["akamaiedge.net"],
+    "cname": ["akamaiedge.net", "edgekey.net"],
     "discussion": "[Issue #13](https://github.com/EdOverflow/can-i-take-over-xyz/issues/13)",
     "documentation": "",
     "fingerprint": "",
