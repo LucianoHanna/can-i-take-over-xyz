@@ -883,7 +883,7 @@
   },
   {
     "cicd_pass": false,
-    "cname": [],
+    "cname": ["wixdns.net"],
     "discussion": "[Issue #231](https://github.com/EdOverflow/can-i-take-over-xyz/issues/231)",
     "documentation": "",
     "fingerprint": "Looks Like This Domain Isn't Connected To A Website Yet!",
