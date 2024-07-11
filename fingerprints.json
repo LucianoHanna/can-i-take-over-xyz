@@ -152,7 +152,7 @@
   },
   {
     "cicd_pass": false,
-    "cname": [],
+    "cname": ["cloudfront.net"],
     "discussion": "[Issue #29](https://github.com/EdOverflow/can-i-take-over-xyz/issues/29)",
     "documentation": "[Domain Security on Amazon CloudFront](https://aws.amazon.com/blogs/networking-and-content-delivery/continually-enhancing-domain-security-on-amazon-cloudfront/)",
     "fingerprint": "ViewerCertificateException",
