@@ -549,7 +549,6 @@
   {
     "cicd_pass": true,
     "cname": [
-      "cloudapp.net",
       "cloudapp.azure.com",
       "azurewebsites.net",
       "blob.core.windows.net",
@@ -575,6 +574,18 @@
     "service": "Microsoft Azure",
     "status": "Vulnerable",
     "vulnerable": true
+  },
+  {
+    "cicd_pass": false,
+    "cname": ["cloudapp.net"],
+    "discussion": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
+    "documentation": "",
+    "fingerprint": "NXDOMAIN",
+    "http_status": null,
+    "nxdomain": true,
+    "service": "Microsoft Azure CDN",
+    "status": "Not vulnerable",
+    "vulnerable": false
   },
   {
     "cicd_pass": false,
