@@ -588,6 +588,18 @@
     "vulnerable": false
   },
   {
+    "cicd_pass": true,
+    "cname": ["trafficmanager.net"],
+    "discussion": "",
+    "documentation": "",
+    "fingerprint": "NXDOMAIN",
+    "http_status": null,
+    "nxdomain": true,
+    "service": "Microsoft Azure CDN",
+    "status": "Vulnerable",
+    "vulnerable": true
+  },
+  {
     "cicd_pass": false,
     "cname": [],
     "discussion": "[Issue #40](https://github.com/EdOverflow/can-i-take-over-xyz/issues/40)",
