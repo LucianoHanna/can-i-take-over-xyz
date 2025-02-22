@@ -576,18 +576,6 @@
     "vulnerable": true
   },
   {
-    "cicd_pass": false,
-    "cname": ["cloudapp.net"],
-    "discussion": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
-    "documentation": "",
-    "fingerprint": "NXDOMAIN",
-    "http_status": null,
-    "nxdomain": true,
-    "service": "Microsoft Azure CDN",
-    "status": "Not vulnerable",
-    "vulnerable": false
-  },
-  {
     "cicd_pass": true,
     "cname": ["trafficmanager.net"],
     "discussion": "",
@@ -598,6 +586,18 @@
     "service": "Microsoft Azure CDN",
     "status": "Vulnerable",
     "vulnerable": true
+  },
+  {
+    "cicd_pass": false,
+    "cname": ["cloudapp.net"],
+    "discussion": "[Issue #35](https://github.com/EdOverflow/can-i-take-over-xyz/issues/35)",
+    "documentation": "",
+    "fingerprint": "NXDOMAIN",
+    "http_status": null,
+    "nxdomain": true,
+    "service": "Microsoft Azure CDN",
+    "status": "Not vulnerable",
+    "vulnerable": false
   },
   {
     "cicd_pass": false,
