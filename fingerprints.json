@@ -291,8 +291,8 @@
     "http_status": null,
     "nxdomain": false,
     "service": "Gemfury",
-    "status": "Vulnerable",
-    "vulnerable": true
+    "status": "Not vulnerable",
+    "vulnerable": false
   },
   {
     "cicd_pass": false,
