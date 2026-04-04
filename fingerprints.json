@@ -367,7 +367,7 @@
     "vulnerable": false
   },
   {
-    "cicd_pass": false,
+    "cicd_pass": true,
     "cname": ["hatenablog.com"],
     "discussion": "",
     "documentation": "",
